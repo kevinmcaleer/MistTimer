@@ -1,6 +1,6 @@
 # Mist App
 This is a simple MicroPython program that will set a Relay to on after a number of 
-minutes have elpased as set in `cycle_time`.
+minutes have elapsed as set in `cycle_time`.
 
 The relay will remain on for the number of seconds defined in `sleep_seconds`
 
